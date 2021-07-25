@@ -1,0 +1,38 @@
+,Title,Type,Rating score,Rating Count,Enrollments,Level
+13,Create Your First Python Program,GUIDED PROJECT,4.6,1874,22k,Beginner
+10,Introduction to Relational Database and SQL,GUIDED PROJECT,4.5,1195,18k,Beginner
+9,Facial Expression Recognition with Keras,GUIDED PROJECT,4.5,801,17k,Intermediate
+32,Linear Regression with NumPy and Python,GUIDED PROJECT,4.4,760,13k,Intermediate
+1,Create Your First Chatbot with Rasa and Python,GUIDED PROJECT,4.5,615,12k,Beginner
+77,Basic Image Classification with TensorFlow,GUIDED PROJECT,4.6,543,11k,Beginner
+11,Build a Data Science Web App with Streamlit and Python,GUIDED PROJECT,4.6,533,11k,Intermediate
+30,Image Classification with CNNs using Keras,GUIDED PROJECT,4.4,464,9.2k,Intermediate
+16,Computer Vision - Object Detection with OpenCV and Python,GUIDED PROJECT,3.9,400,10k,Intermediate
+12,Perform Sentiment Analysis with scikit-learn,GUIDED PROJECT,4.5,368,7.5k,Intermediate
+39,Build a Machine Learning Web App with Streamlit and Python,GUIDED PROJECT,4.7,285,7.2k,Intermediate
+27,Exploratory Data Analysis with Seaborn,GUIDED PROJECT,4.7,272,6.1k,Intermediate
+88,Principal Component Analysis with NumPy,GUIDED PROJECT,4.6,225,5.8k,Intermediate
+28,Perform Real-Time Object Detection with YOLOv3,GUIDED PROJECT,3.7,223,6k,Intermediate
+17,Git + GitHub for Open Source Collaboration,GUIDED PROJECT,4.3,213,5.1k,Beginner
+79,Analyzing Company’s Performance using Ratios,GUIDED PROJECT,4.4,191,4.4k,Intermediate
+8,Unsupervised Machine Learning for Customer Market Segmentation,GUIDED PROJECT,4.8,186,6k,Beginner
+82,Data Visualization with Plotly Express,GUIDED PROJECT,4.7,185,4.6k,Intermediate
+84,"Classification Trees in Python, From Start To Finish",GUIDED PROJECT,4.6,185,6.5k,Intermediate
+3,Detecting COVID-19 with Chest X-Ray using PyTorch,GUIDED PROJECT,4.6,163,5.2k,Intermediate
+109,Portfolio Diversification using Correlation Matrix,GUIDED PROJECT,4.7,163,3.1k,Intermediate
+123,Build a Deep Learning Based Image Classifier with R,GUIDED PROJECT,4.6,153,5.3k,Intermediate
+108,Discounted Cash Flow Modeling,GUIDED PROJECT,4.5,147,5.4k,Intermediate
+18,Pandas Python Library for Beginners in Data Science,GUIDED PROJECT,4.5,141,3.2k,Beginner
+36,University Admission Prediction Using Multiple Linear Regression,GUIDED PROJECT,4.6,122,4.3k,Intermediate
+122,Support Vector Machine Classification in Python,GUIDED PROJECT,4.4,119,4.4k,Intermediate
+45,Automatic Machine Learning with H2O AutoML and Python,GUIDED PROJECT,4.8,105,4.4k,Intermediate
+113,AutoML for Computer Vision with Microsoft Custom Vision,GUIDED PROJECT,4.7,92,2.9k,Beginner
+87,Convolutions for Text Classification with Keras,GUIDED PROJECT,4.7,85,2.4k,Intermediate
+151,Machine Learning with H2O Flow,GUIDED PROJECT,4.7,79,2.5k,Intermediate
+41,Network Data Science with NetworkX and Python,GUIDED PROJECT,4.5,54,2.3k,Intermediate
+166,Python Tricks and Hacks for Productivity,GUIDED PROJECT,4.1,54,2.1k,Intermediate
+46,Intermediate Pandas Python Library for Data Science,GUIDED PROJECT,4.6,43,2.1k,Intermediate
+15,Python World Map Geovisualization Dashboard using Covid Data,GUIDED PROJECT,4.4,42,2.2k,Beginner
+276,Semantic Segmentation with Amazon Sagemaker,GUIDED PROJECT,4.8,33,2k,Advanced
+23,Python Geospatial Data Analysis,GUIDED PROJECT,4.5,26,2.1k,Beginner
+48,TensorFlow Serving with Docker for Model Deployment,GUIDED PROJECT,4.9,15,1.8k,Intermediate

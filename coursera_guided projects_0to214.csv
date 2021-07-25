@@ -1,0 +1,215 @@
+,url,name,level,duration,primaryLanguages,partner,rating,ratingScore
+0,https://www.coursera.org/learn/interactive-word2vec,Interactive Word Embeddings using Word2Vec and Plotly,INTERMEDIATE,2,['en'],Coursera Project Network,4.9,8
+1,https://www.coursera.org/learn/scikit-learn-k-means-clustering-image-compression,Image Compression with K-Means Clustering ,BEGINNER,1,['en'],Coursera Project Network,4.6,260
+2,https://www.coursera.org/learn/nlp-english-to-french-translation,English/French Translator: Long Short Term Memory Networks,BEGINNER,1,['en'],Coursera Project Network,4.7,21
+3,https://www.coursera.org/learn/covid19-data-visualization-using-python,COVID19 Data Visualization Using Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.2,16
+4,https://www.coursera.org/learn/data-visualization-with-python,Data Visualization with Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,160
+5,https://www.coursera.org/learn/exploratory-data-analysis-python,Exploratory Data Analysis,INTERMEDIATE,1,['en'],Coursera Project Network,4.3,68
+6,https://www.coursera.org/learn/probability-distributions-real-world-problems-r,Using probability distributions for real world problems in R,BEGINNER,1,['en'],Coursera Project Network,4.8,10
+7,https://www.coursera.org/learn/image-compression-generation-vae,Image Compression and Generation using Variational Autoencoders in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,60
+8,https://www.coursera.org/learn/analyze-visitors-google-analytics-segments,Analyze Website Visitors with Google Analytics Segments,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,23
+9,https://www.coursera.org/learn/multilayer-perceptron-model-keras,Build Multilayer Perceptron Models with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,78
+10,https://www.coursera.org/learn/predict-housing-prices-boston-data,Predict Housing Prices in R on Boston Housing Data,INTERMEDIATE,1,['en'],Coursera Project Network,4.3,29
+11,https://www.coursera.org/learn/reverse-and-complement-nucleic-acid-sequences-using-r,"Reverse and complement nucleic acid sequences (DNA, RNA) using R",BEGINNER,1,['en'],Coursera Project Network,4.5,28
+12,https://www.coursera.org/learn/machine-learning-feature-selection-in-python,Machine Learning Feature Selection in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.1,45
+13,https://www.coursera.org/learn/automl-computer-vision-microsoft-custom-vision,AutoML for Computer Vision with Microsoft Custom Vision,BEGINNER,1,['en'],Coursera Project Network,4.7,97
+14,https://www.coursera.org/learn/processing-data-with-python,Processing Data with Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,159
+15,https://www.coursera.org/learn/employee-turnover-scikit-learn,Predict Employee Turnover with scikit-learn,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,221
+16,https://www.coursera.org/learn/introduction-to-topic-modeling-for-business,Introduction to Topic Modeling for Business,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,16
+17,https://www.coursera.org/learn/data-mining-visualization-in-python,Mining Data to Extract and Visualize Insights in Python,BEGINNER,1,['en'],Coursera Project Network,4.4,45
+18,https://www.coursera.org/learn/descriptive-statistics-analyze-data-r,Using Descriptive Statistics to Analyze Data in R,BEGINNER,1,['en'],Coursera Project Network,4.5,41
+19,https://www.coursera.org/learn/analyze-stock-data-using-r-quantmod,Analyze Stock Data using R and Quantmod Package,BEGINNER,1,['en'],Coursera Project Network,4.3,112
+20,https://www.coursera.org/learn/facial-expression-classification,Facial Expression Classification Using Residual Neural Nets,BEGINNER,1,['en'],Coursera Project Network,4.7,32
+21,https://www.coursera.org/learn/linear-regression,Linear Regression with Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,368
+22,https://www.coursera.org/learn/building-similarity-based-recommendation-system,Building Similarity Based Recommendation System,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,9
+23,https://www.coursera.org/learn/predict-sales-forecast-trends-in-google-sheets,Predict Sales and Forecast Trends in Google Sheets,BEGINNER,1,['en'],Coursera Project Network,4.9,11
+24,https://www.coursera.org/learn/traffic-sign-classification-deep-learning,Traffic Sign Classification Using Deep Learning in Python/Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,302
+25,https://www.coursera.org/learn/database-design-with-sql-server-management-studio,Database Design with SQL Server Management Studio (SSMS),BEGINNER,1,['en'],Coursera Project Network,4.6,17
+26,https://www.coursera.org/learn/performing-data-definition-and-manipulation-in-sql,Performing Data Definition and Manipulation in SQL,BEGINNER,1,['en'],Coursera Project Network,4.7,66
+27,https://www.coursera.org/learn/save-load-export-keras-models,"Save, Load and Export Models with Keras",INTERMEDIATE,1,['en'],Coursera Project Network,4.6,83
+28,https://www.coursera.org/learn/measuring-stock-liquidity,Measuring Stock Liquidity,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,24
+29,https://www.coursera.org/learn/image-noise-reduction-auto-encoders,Image Noise Reduction with Auto-encoders using TensorFlow,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,93
+30,https://www.coursera.org/learn/statistical-visualization,Statistical Data Visualization in Python,BEGINNER,1,['en'],Coursera Project Network,3.9,63
+31,https://www.coursera.org/learn/image-classification-transfer-learning-keras,Classification with Transfer Learning in Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,129
+32,https://www.coursera.org/learn/building-stock-returns-heatmap-tableau,Building Stock Returns Heatmap with Tableau,INTERMEDIATE,1,['en'],Coursera Project Network,4.3,14
+33,https://www.coursera.org/learn/business-analysis-using-spreadsheets,Introduction to Business Analysis Using Spreadsheets: Basics,BEGINNER,1,['en'],Coursera Project Network,4.5,6
+34,https://www.coursera.org/learn/querying-databases-using-sql-select-statement,Querying Databases Using SQL SELECT statement,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,54
+35,https://www.coursera.org/learn/analyze-data-plotly-python,Analyze Box Office Data with Plotly and Python,BEGINNER,1,['en'],Coursera Project Network,4.5,205
+36,https://www.coursera.org/learn/support-vector-machines-scikit-learn,Support Vector Machines with scikit-learn,BEGINNER,1,['en'],Coursera Project Network,4.3,281
+37,https://www.coursera.org/learn/basic-artificial-neural-networks-in-python,Basic Artificial Neural Networks in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.2,92
+38,https://www.coursera.org/learn/dplyr,Build Data Analysis and Transformation Skills in R using DPLYR,BEGINNER,1,['en'],Coursera Project Network,4.6,66
+39,https://www.coursera.org/learn/autoencoders-image-denoising,Image Denoising Using AutoEncoders in Keras and Python ,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,232
+40,https://www.coursera.org/learn/hierarchical-clustering-customer-segmentation,Hierarchical Clustering: Customer Segmentation,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,76
+41,https://www.coursera.org/learn/explainable-machine-learning-lime-h2o,Explainable Machine Learning with LIME and H2O in R,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,36
+42,https://www.coursera.org/learn/tensorflow-regularization-avoid-overfitting,Avoid Overfitting Using Regularization in TensorFlow,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,64
+43,https://www.coursera.org/learn/handling-imbalanced-data-classification-problems,Handling Imbalanced Data Classification Problems,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,26
+44,https://www.coursera.org/learn/fine-tune-bert-tensorflow,Fine Tune BERT for Text Classification with TensorFlow,INTERMEDIATE,3,['en'],Coursera Project Network,5.0,2
+45,https://www.coursera.org/learn/scene-classification-gradcam,Explainable AI: Scene Classification and GradCam Visualization ,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,32
+46,https://www.coursera.org/learn/generating-new-recipes-python,Generating New Recipes using GPT-2,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,14
+47,https://www.coursera.org/learn/serving-tensorflow-models-with-rest-api,Serving Tensorflow Models with a REST API,INTERMEDIATE,2,['en'],Coursera Project Network,4.3,6
+48,https://www.coursera.org/learn/basic-relational-databases-sql,Building Basic Relational Databases in SQL Server Management Studio,BEGINNER,1,['en'],Coursera Project Network,4.4,140
+49,https://www.coursera.org/learn/medical-diagnosis-support-vector-machines,Medical Diagnosis using Support Vector Machines,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,39
+50,https://www.coursera.org/learn/hyperparameter-tuning,Hyperparameter Tuning with Neural Network Intelligence,INTERMEDIATE,1,['en'],Coursera Project Network,4.9,10
+51,https://www.coursera.org/learn/deep-learning-fundamentals-logistic-regression,Logistic Regression with Python and Numpy,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,118
+52,https://www.coursera.org/learn/analyze-data-seaborn-python,Analyze Box Office Data with Seaborn and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,144
+53,https://www.coursera.org/learn/getting-started-with-r,Getting Started with R,BEGINNER,2,['en'],Coursera Project Network,4.7,6
+54,https://www.coursera.org/learn/genome-analysis-z-curve,A Geometrical Approach to Genome Analysis: Skew & Z-Curve,INTERMEDIATE,3,['en'],Coursera Project Network,5.0,1
+55,https://www.coursera.org/learn/manipulating-data-with-sql,Manipulating Data with SQL,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,125
+56,https://www.coursera.org/learn/plots-graphics-in-r,Plots (Graphics) in R,BEGINNER,1,['en'],Coursera Project Network,4.4,24
+57,https://www.coursera.org/learn/creating-database-tables-with-sql,Creating Database Tables with SQL,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,247
+58,https://www.coursera.org/learn/data-augmentation-keras,Image Data Augmentation with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,414
+59,https://www.coursera.org/learn/object-detection-sagemaker,Object Detection with Amazon Sagemaker,ADVANCED,1,['en'],Coursera Project Network,4.5,63
+60,https://www.coursera.org/learn/predictive-modelling-azure-machine-learning-studio,Predictive Modelling with Azure Machine Learning Studio,BEGINNER,1,['en'],Coursera Project Network,4.5,159
+61,https://www.coursera.org/learn/deep-learning-image-classifier-r,Build a Deep Learning Based Image Classifier with R,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,155
+62,https://www.coursera.org/learn/analyze-text-data-yellowbrick,Analyze Text Data with Yellowbrick,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,67
+63,https://www.coursera.org/learn/mining-quality-prediction,Mining Quality Prediction Using Machine & Deep Learning,BEGINNER,1,['en'],Coursera Project Network,4.9,20
+64,https://www.coursera.org/learn/computer-vision-video-basics-opencv-python,Video Basics with OpenCV and Python,BEGINNER,1,['en'],Coursera Project Network,4.1,167
+65,https://www.coursera.org/learn/building-candlestick-charts-tableau,Building Candlestick Charts with Tableau,BEGINNER,1,['en'],Coursera Project Network,4.3,58
+66,https://www.coursera.org/learn/performing-data-aggregation-using-sql-aggregate-functions,Performing Data Aggregation using SQL Aggregate Functions,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,18
+67,https://www.coursera.org/learn/machine-learning-h2o-flow,Machine Learning with H2O Flow,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,80
+68,https://www.coursera.org/learn/custom-prediction-routine-google-ai-platform,Custom Prediction Routine on Google AI Platform,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,399
+69,https://www.coursera.org/learn/optimization-of-topic-models-using-grid-search-method,Optimization of Topic Models using Grid Search Method,ADVANCED,2,['en'],Coursera Project Network,3.0,3
+70,https://www.coursera.org/learn/digging-deeper-into-audience-reports-in-google-analytics,Digging Deeper into Audience Reports in Google Analytics,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,8
+71,https://www.coursera.org/learn/build-analyze-linear-regression-model-r,Building and analyzing linear regression model in R,BEGINNER,2,['en'],Coursera Project Network,4.4,7
+72,https://www.coursera.org/learn/reverse-and-complement-nucleic-acid-sequences-using-python,"Reverse and complement nucleic acid sequences (DNA, RNA) using Python",BEGINNER,2,['en'],Coursera Project Network,4.3,18
+73,https://www.coursera.org/learn/custom-layers-keras,Create Custom Layers in Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,85
+74,https://www.coursera.org/learn/conduct-sales-projections-with-seasonality-google-sheets,Conduct Sales Projections with Seasonality in Google Sheets,INTERMEDIATE,2,['en'],Coursera Project Network,5.0,1
+75,https://www.coursera.org/learn/create-relational-database-table-sqlitestudio,Create Relational Database Tables Using SQLiteStudio,BEGINNER,1,['en'],Coursera Project Network,4.7,100
+76,https://www.coursera.org/learn/neural-style-transfer,Neural Style Transfer with TensorFlow,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,96
+77,https://www.coursera.org/learn/feature-analysis-yellowbrick,Perform Feature Analysis with Yellowbrick,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,44
+78,https://www.coursera.org/learn/graphing-with-ggplot2,Graphing with ggplot2,BEGINNER,1,['en'],Coursera Project Network,4.1,53
+79,https://www.coursera.org/learn/plots-graphics-for-data-science,Plots (Graphics) for Data Science,BEGINNER,1,['en'],Coursera Project Network,4.3,52
+80,https://www.coursera.org/learn/google-finance-functions-google-sheets,Leverage Google Finance Functions in Google Sheets,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,7
+81,https://www.coursera.org/learn/geo-visualization-in-python,Geo-Visualization in Python,BEGINNER,1,['en'],Coursera Project Network,4.2,61
+82,https://www.coursera.org/learn/introduction-to-line-balancing-using-precedence-diagram,Introduction to Line Balancing Using Precedence Diagram,BEGINNER,2,['en'],Coursera Project Network,4.0,2
+83,https://www.coursera.org/learn/azure-machine-learning-studio-random-forests,Build Random Forests in R with Azure ML Studio,BEGINNER,1,['en'],Coursera Project Network,4.8,39
+84,https://www.coursera.org/learn/azure-machine-learning-studio-pipeline,Machine Learning Pipelines with Azure ML Studio,BEGINNER,1,['en'],Coursera Project Network,4.6,191
+85,https://www.coursera.org/learn/support-vector-machine-classification-python,Support Vector Machine Classification in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,120
+86,https://www.coursera.org/learn/predict-poison-mushrooms-using-random-forest,Machine Learning:  Predict Poisonous Mushrooms using a Random Forest Model and the FFTrees Package in R,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,80
+87,https://www.coursera.org/learn/transfer-learning-food-classification,Transfer Learning for Food Classification,BEGINNER,1,['en'],Coursera Project Network,4.6,33
+88,https://www.coursera.org/learn/linear-regression-predicting-salaries,Predicting Salaries with Simple Linear Regression in R,BEGINNER,1,['en'],Coursera Project Network,4.3,179
+89,https://www.coursera.org/learn/predict-numbers-from-handwritten-digits-neuralnetwork,"Machine Learning:  Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R",INTERMEDIATE,1,['en'],Coursera Project Network,4.3,47
+90,https://www.coursera.org/learn/predict-picture-type-using-neural-network,Machine Learning: Create a Neural Network that Predicts whether an Image is a Car or Airplane.,INTERMEDIATE,1,['en'],Coursera Project Network,4.3,82
+91,https://www.coursera.org/learn/regression-automatic-differentiation-tensorflow,Regression with Automatic Differentiation in TensorFlow,BEGINNER,1,['en'],Coursera Project Network,4.7,51
+92,https://www.coursera.org/learn/building-custom-regional-reports-with-google-analytics,Building Custom Regional Reports with Google Analytics,BEGINNER,1,['en'],Coursera Project Network,4.6,172
+93,https://www.coursera.org/learn/sagemaker-tensorflow,Using TensorFlow with Amazon Sagemaker,ADVANCED,1,['en'],Coursera Project Network,4.7,62
+94,https://www.coursera.org/learn/leveraging-real-time-analytics-in-slack-local-and-surveymonkey-integrations,Leveraging Real-Time Analytics in Slack,INTERMEDIATE,1,['en'],Coursera Project Network,4.2,9
+95,https://www.coursera.org/learn/draw-insights-with-crosstabs-reports-google-sheets,Draw Insights with Crosstabs Reports in Google Sheets,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,5
+96,https://www.coursera.org/learn/computer-vision-neural-transfer-style-green-screen-effect,Computer Vision: Neural Transfer Style & Green Screen Effect,INTERMEDIATE,1,['en'],Coursera Project Network,4.1,34
+97,https://www.coursera.org/learn/predictive-analytics-business-h2o-r, Predictive Analytics for Business with H2O in R,INTERMEDIATE,1,['en'],Coursera Project Network,4.9,32
+98,https://www.coursera.org/learn/neural-network-visualizer,Neural Network Visualizer Web App with Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,203
+99,https://www.coursera.org/learn/machine-learning-visualization,Visual Machine Learning with Yellowbrick,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,63
+0,https://www.coursera.org/learn/power-bi-desktop,Getting Started with Power BI Desktop,BEGINNER,1,['en'],Coursera Project Network,4.7,1029
+1,https://www.coursera.org/learn/covid19-data-analysis-using-python,COVID19 Data Analysis Using Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,1397
+2,https://www.coursera.org/learn/introduction-to-relational-database-and-sql,Introduction to Relational Database and SQL,BEGINNER,1,['en'],Coursera Project Network,4.5,1201
+3,https://www.coursera.org/learn/sentiment-analysis-bert,Sentiment Analysis with Deep Learning using BERT,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,261
+4,https://www.coursera.org/learn/introduction-to-python,Introduction to Python,BEGINNER,1,['en'],Coursera Project Network,4.5,1337
+5,https://www.coursera.org/learn/chatbot-rasa-python,Create Your First Chatbot with Rasa and Python,BEGINNER,1,['en'],Coursera Project Network,4.5,617
+6,https://www.coursera.org/learn/covid-19-detection-x-ray,Detecting COVID-19 with Chest X-Ray using PyTorch,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,169
+7,https://www.coursera.org/learn/anomaly-detection-time-series-keras,Anomaly Detection in Time Series Data with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.2,160
+8,https://www.coursera.org/learn/intro-time-series-analysis-in-r,Intro to Time Series Analysis in R,BEGINNER,1,['en'],Coursera Project Network,4.5,156
+9,https://www.coursera.org/learn/data-science-streamlit-python,Build a Data Science Web App with Streamlit and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,534
+10,https://www.coursera.org/learn/facial-expression-recognition-keras,Facial Expression Recognition with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,805
+11,https://www.coursera.org/learn/exploratory-data-analysis-python-pandas,Exploratory Data Analysis With Python and Pandas,BEGINNER,1,['en'],Coursera Project Network,4.7,76
+12,https://www.coursera.org/learn/ocr-text-detection-tensorflow-opencv-tesseract," Real-time OCR and Text Detection with Tensorflow, OpenCV and Tesseract",INTERMEDIATE,1,['en'],Coursera Project Network,4.0,74
+13,https://www.coursera.org/learn/twitter-sentiment-analysis,NLP: Twitter Sentiment Analysis,BEGINNER,1,['en'],Coursera Project Network,4.7,143
+14,https://www.coursera.org/learn/deep-learning-nlp-gpt-2,Deep Learning NLP: Training GPT-2 from scratch,BEGINNER,1,['en'],Coursera Project Network,4.2,36
+15,https://www.coursera.org/learn/real-time-object-detection-yolo,Perform Real-Time Object Detection with YOLOv3,INTERMEDIATE,1,['en'],Coursera Project Network,3.7,225
+16,https://www.coursera.org/learn/visualizing-citibike-trips-tableau,Visualizing Citibike Trips with Tableau,BEGINNER,1,['en'],Coursera Project Network,4.6,633
+17,https://www.coursera.org/learn/intermediate-rdb-sql,Intermediate Relational Database and SQL,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,327
+18,https://www.coursera.org/learn/machine-learning-for-customer-segmentation,Unsupervised Machine Learning for Customer Market Segmentation,BEGINNER,1,['en'],Coursera Project Network,4.8,190
+19,https://www.coursera.org/learn/computer-vision-object-detection,Computer Vision - Object Detection with OpenCV and Python,INTERMEDIATE,1,['en'],Coursera Project Network,3.9,408
+20,https://www.coursera.org/learn/nlp-fake-news-detector,Fake News Detection with Machine Learning,BEGINNER,1,['en'],Coursera Project Network,4.7,72
+21,https://www.coursera.org/learn/generative-adversarial-networks-keras,Generate Synthetic Images with DCGANs in Keras,ADVANCED,1,['en'],Coursera Project Network,4.5,200
+22,https://www.coursera.org/learn/interactive-dashboards-streamlit-python,Create Interactive Dashboards with Streamlit and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,241
+23,https://www.coursera.org/learn/machine-learning-streamlit-python,Build a Machine Learning Web App with Streamlit and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,288
+24,https://www.coursera.org/learn/advanced-rdb-sql,Advanced Relational Database and SQL,ADVANCED,1,['en'],Coursera Project Network,4.6,154
+25,https://www.coursera.org/learn/new-product-dev-smes,New Product Development For Small Businesses and Start-Ups,BEGINNER,1,['en'],Coursera Project Network,4.6,45
+26,https://www.coursera.org/learn/pandas-python-library-beginners-data-science,Pandas Python Library for Beginners in Data Science,BEGINNER,1,['en'],Coursera Project Network,4.5,148
+27,https://www.coursera.org/learn/data-analysis-using-pyspark,Data Analysis Using Pyspark,INTERMEDIATE,1,['en'],Coursera Project Network,4.3,49
+28,https://www.coursera.org/learn/python-world-map-geovisualization-dashboard-covid-data,Python World Map Geovisualization Dashboard using Covid Data,BEGINNER,1,['en'],Coursera Project Network,4.3,45
+29,https://www.coursera.org/learn/computer-vision-opencv-for-images,Computer Vision - Image Basics with OpenCV and Python,BEGINNER,1,['en'],Coursera Project Network,4.2,564
+30,https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification,Basic Image Classification with TensorFlow,BEGINNER,1,['en'],Coursera Project Network,4.6,546
+31,https://www.coursera.org/learn/named-entity-recognition-lstm-keras-tensorflow,Named Entity Recognition using LSTMs with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,124
+32,https://www.coursera.org/learn/introduction-to-reinforcement-learning-in-python,Introduction to Reinforcement Learning in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,19
+33,https://www.coursera.org/learn/analyze-city-data-r-tableau,Analyze City Data Using R and Tableau,INTERMEDIATE,2,['en'],University of Illinois at Urbana-Champaign,2.5,2
+34,https://www.coursera.org/learn/prophet-timeseries-prediction,Predict Future Product Prices Using Facebook Prophet,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,327
+35,https://www.coursera.org/learn/siamese-network-triplet-loss-keras,Siamese Network with Triplet Loss in Keras,ADVANCED,1,['en'],Coursera Project Network,4.7,82
+36,https://www.coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression,Predicting House Prices with Regression using TensorFlow,BEGINNER,1,['en'],Coursera Project Network,4.5,427
+37,https://www.coursera.org/learn/single-table-sql-queries,Retrieve Data using Single-Table SQL Queries,BEGINNER,1,['en'],Coursera Project Network,4.6,244
+38,https://www.coursera.org/learn/compare-stock-returns-google-sheets,Compare Stock Returns with Google Sheets,BEGINNER,1,['en'],Coursera Project Network,4.4,389
+39,https://www.coursera.org/learn/linear-regression-numpy-python,Linear Regression with NumPy and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,762
+40,https://www.coursera.org/learn/image-classification-cnn-keras,Image Classification with CNNs using Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,468
+41,https://www.coursera.org/learn/python-geospatial-data-analysis,Python Geospatial Data Analysis,BEGINNER,1,['en'],Coursera Project Network,4.5,27
+42,https://www.coursera.org/learn/exploratory-data-analysis-seaborn,Exploratory Data Analysis with Seaborn,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,274
+43,https://www.coursera.org/learn/deepfakes-keras,Understanding Deepfakes with Keras,ADVANCED,1,['en'],Coursera Project Network,4.4,122
+44,https://www.coursera.org/learn/statistical-data-visualization-seaborn,Statistical Data Visualization with Seaborn,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,117
+45,https://www.coursera.org/learn/intermediate-pandas-python-library-data-science,Intermediate Pandas Python Library for Data Science,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,43
+46,https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis,Perform Sentiment Analysis with scikit-learn,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,370
+47,https://www.coursera.org/learn/movie-recommendation-system-using-collaborative-filtering,Movie Recommendation System using Collaborative Filtering,BEGINNER,1,['en'],Coursera Project Network,4.6,28
+48,https://www.coursera.org/learn/computer-vision-object-tracking-opencv-python,Computer Vision - Object Tracking with OpenCV and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.0,304
+49,https://www.coursera.org/learn/create-rsi-buy-signal-using-r,Create a Buy Signal using RSI in R with the Quantmod Package,BEGINNER,1,['en'],Coursera Project Network,4.7,49
+50,https://www.coursera.org/learn/fifa20-data-exploration-using-python,FIFA20 Data Exploration using Python,BEGINNER,1,['en'],Coursera Project Network,4.8,18
+51,https://www.coursera.org/learn/data-visualization-plotly-express,Data Visualization with Plotly Express,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,188
+52,https://www.coursera.org/learn/custom-reports-in-google-analytics,Custom Reports in Google Analytics,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,48
+53,https://www.coursera.org/learn/semantic-segmentation-sagemaker,Semantic Segmentation with Amazon Sagemaker,ADVANCED,1,['en'],Coursera Project Network,4.8,33
+54,https://www.coursera.org/learn/game-theory-with-python,Game Theory with Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,34
+55,https://www.coursera.org/learn/investment-risk-management,Investment Risk Management,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,209
+56,https://www.coursera.org/learn/image-super-resolution-autoencoders-keras,Image Super Resolution Using Autoencoders in Keras,ADVANCED,1,['en'],Coursera Project Network,4.4,287
+57,https://www.coursera.org/learn/getting-started-in-google-analytics,Getting Started in Google Analytics,BEGINNER,1,['en'],Coursera Project Network,4.6,391
+58,https://www.coursera.org/learn/data-exploration-spark-sql,Explore stock prices with Spark SQL,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,18
+59,https://www.coursera.org/learn/introduction-to-dplyr,Build Data Analysis tools using R and DPLYR,BEGINNER,1,['en'],Coursera Project Network,4.5,224
+60,https://www.coursera.org/learn/dimensionality-reduction-autoencoder-python,Dimensionality Reduction using an Autoencoder in Python ,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,79
+61,https://www.coursera.org/learn/deploy-models-tensorflow-serving-flask,Deploy Models with TensorFlow Serving and Flask,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,157
+62,https://www.coursera.org/learn/intro-natural-language-processing-nlp-python,Introduction to Natural Language Processing in Python,INTERMEDIATE,1,['en'],Coursera Project Network,3.6,21
+63,https://www.coursera.org/learn/shiny-to-plot-differential-gene-expression,Using Shiny to Plot Differential Gene Expression,BEGINNER,1,['en'],Coursera Project Network,4.4,27
+64,https://www.coursera.org/learn/neural-network-tensorflow,Neural Network from Scratch in TensorFlow,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,238
+65,https://www.coursera.org/learn/create-buy-signal-filter-using-r-quantmod-package,Stock Analysis:  Create a Buy Signal Filter using R and the Quantmod Package,BEGINNER,1,['en'],Coursera Project Network,4.7,61
+66,https://www.coursera.org/learn/principal-component-analysis-numpy,Principal Component Analysis with NumPy,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,227
+67,https://www.coursera.org/learn/facial-key-point-detection,Emotion AI: Facial Key-points Detection,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,107
+68,https://www.coursera.org/learn/classification-trees-in-python,"Classification Trees in Python, From Start To Finish",INTERMEDIATE,1,['en'],Coursera Project Network,4.6,186
+69,https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow,Basic Sentiment Analysis with TensorFlow,INTERMEDIATE,1,['en'],Coursera Project Network,4.4,174
+70,https://www.coursera.org/learn/portfolio-optimization-markowitz-model,Portfolio Optimization using Markowitz Model,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,150
+71,https://www.coursera.org/learn/multiple-table-sql-queries,Retrieve Data with Multiple-Table SQL Queries,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,61
+72,https://www.coursera.org/learn/scikit-learn-multiple-linear-regression,Multiple Linear Regression with scikit-learn,BEGINNER,1,['en'],Coursera Project Network,4.5,288
+73,https://www.coursera.org/learn/clustering-geolocation-data-intelligently-python,Clustering Geolocation Data Intelligently in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,369
+74,https://www.coursera.org/learn/classify-radio-signals-space-keras-cnn,Classify Radio Signals from Space using Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,219
+75,https://www.coursera.org/learn/spreadsheets-beginner-google-sheets,Spreadsheets for Beginners using Google Sheets,BEGINNER,1,['en'],Coursera Project Network,4.7,1396
+76,https://www.coursera.org/learn/machine-learning-university-admission,University Admission Prediction Using Multiple Linear Regression,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,124
+77,https://www.coursera.org/learn/automatic-machine-learning-h2o-automl-python,Automatic Machine Learning with H2O AutoML and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,106
+78,https://www.coursera.org/learn/statistical-forecasting-techniques-in-google-sheets,Statistical Forecasting Techniques in Google Sheets,BEGINNER,1,['en'],Coursera Project Network,4.9,10
+79,https://www.coursera.org/learn/image-classification-sagemaker,Image Classification with Amazon Sagemaker,ADVANCED,1,['en'],Coursera Project Network,4.7,69
+80,https://www.coursera.org/learn/advanced-sql-retrieval-queries-in-sqlitestudio,Advanced SQL Retrieval Queries in SQLiteStudio,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,64
+81,https://www.coursera.org/learn/tensorflow-serving-docker-model-deployment,TensorFlow Serving with Docker for Model Deployment,INTERMEDIATE,1,['en'],Coursera Project Network,4.9,15
+82,https://www.coursera.org/learn/python-pandas-merge-sort-filter,"Merge, Sort and Filter Data in Python Pandas",INTERMEDIATE,1,['en'],Coursera Project Network,4.3,39
+83,https://www.coursera.org/learn/networkx,Network Data Science with NetworkX and Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,55
+84,https://www.coursera.org/learn/scikit-learn-simple-linear-regression,Predict Sales Revenue with scikit-learn,BEGINNER,1,['en'],Coursera Project Network,4.5,188
+85,https://www.coursera.org/learn/logistic-regression-numpy-python,Logistic Regression with NumPy and Python,BEGINNER,1,['en'],Coursera Project Network,4.5,325
+86,https://www.coursera.org/learn/portfolio-diversification-correlation-matrix,Portfolio Diversification using Correlation Matrix,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,165
+87,https://www.coursera.org/learn/predict-diabetes-with-a-random-forest-using-r,Predict Diabetes with a Random Forest using R,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,85
+88,https://www.coursera.org/learn/simulating-viral-pandemic-in-python,Simulating Viral Pandemics in Python,INTERMEDIATE,1,['en'],Coursera Project Network,3.7,12
+89,https://www.coursera.org/learn/systems-network-kumu,Introduction to Systems and Network Mapping with Kumu,BEGINNER,1,['en'],Coursera Project Network,4.8,36
+90,https://www.coursera.org/learn/convolution-text-classification-keras,Convolutions for Text Classification with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,89
+91,https://www.coursera.org/learn/scrape-data-using-rvest-for-analytics,Data Analytics:  Scraping Data using Hadley Wickam's Rvest package in R,INTERMEDIATE,1,['en'],Coursera Project Network,4.2,33
+92,https://www.coursera.org/learn/tensorflow-tensorrt,Optimize TensorFlow Models For Deployment with TensorRT,INTERMEDIATE,2,['en'],Coursera Project Network,5.0,3
+93,https://www.coursera.org/learn/simple-recurrent-neural-network-keras,Simple Recurrent Neural Network with Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.5,98
+94,https://www.coursera.org/learn/spark-machine-learning-pipeline-python,Building Machine Learning Pipelines in PySpark MLlib,INTERMEDIATE,1,['en'],Coursera Project Network,5.0,6
+95,https://www.coursera.org/learn/create-technical-stock-charts-r-quantmod,Create Technical Stock Charts Using R and Quantmod,BEGINNER,1,['en'],Coursera Project Network,4.6,102
+96,https://www.coursera.org/learn/language-classification,Language Classification with Naive Bayes in Python,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,135
+97,https://www.coursera.org/learn/azure-machine-learning-studio-deep-learning-inference,Deep Learning Inference with Azure ML Studio,BEGINNER,1,['en'],Coursera Project Network,4.8,104
+98,https://www.coursera.org/learn/charts-dashboard-google-sheets,Create Charts and Dashboard using Google Sheets,BEGINNER,1,['en'],Coursera Project Network,4.8,49
+99,https://www.coursera.org/learn/python-hacks,Python Tricks and Hacks for Productivity,INTERMEDIATE,1,['en'],Coursera Project Network,4.1,54
+0,https://www.coursera.org/learn/machine-learning-visualization,Visual Machine Learning with Yellowbrick,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,63
+1,https://www.coursera.org/learn/analysis-of-variance-anova-in-google-sheets,Analysis of Variance with ANOVA in Google Sheets,INTERMEDIATE,2,['en'],Coursera Project Network,4.0,10
+2,https://www.coursera.org/learn/custom-callbacks-keras,Creating Custom Callbacks in Keras,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,57
+3,https://www.coursera.org/learn/advanced-features-relational-database-table-sqlitestudio,Advanced Features with Relational Database Tables Using SQLiteStudio,INTERMEDIATE,1,['en'],Coursera Project Network,4.7,93
+4,https://www.coursera.org/learn/machine-learning-regression-yellowbrick,Regression Analysis with Yellowbrick,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,70
+5,https://www.coursera.org/learn/machine-learning-model-yellowbrick,Evaluate Machine Learning Models with Yellowbrick,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,41
+6,https://www.coursera.org/learn/pycaret-classification,PyCaret: Anatomy of Classification,INTERMEDIATE,2,['en'],Coursera Project Network,4.7,3
+7,https://www.coursera.org/learn/predict-gas-guzzlers-neural-net,Predict Gas Guzzlers using a Neural Net Model on the MPG Data Set,INTERMEDIATE,1,['en'],Coursera Project Network,4.6,26
+8,https://www.coursera.org/learn/predict-ideal-diamonds-with-a-random-forest-using-r,Predict Ideal Diamonds over Good Diamonds using a Random Forest using R,INTERMEDIATE,1,['en'],Coursera Project Network,4.8,26
+9,https://www.coursera.org/learn/impute-data-to-forecast-demand-in-google-sheets,Impute Data to Forecast Demand in Google Sheets,BEGINNER,3,['en'],Coursera Project Network,5.0,3
+10,https://www.coursera.org/learn/grab-data-fast-with-vertical-and-horizontal-lookup-in-google-sheets,Grab Data Fast with Vertical and Horizontal LOOKUP ,BEGINNER,2,['en'],Coursera Project Network,4.0,2
+11,https://www.coursera.org/learn/calculating-descriptive-statistics-in-r,Calculating Descriptive Statistics in R,BEGINNER,3,['en'],Coursera Project Network,5.0,2
+12,https://www.coursera.org/learn/tensorflow-for-ai-computer-vision-basics,TensorFlow for AI: Computer Vision Basics,INTERMEDIATE,4,['en'],Coursera Project Network,,0
+13,https://www.coursera.org/learn/tensorflow-for-ai-get-to-know-tensorflow,TensorFlow for AI: Get to Know Tensorflow,INTERMEDIATE,4,['en'],Coursera Project Network,,0

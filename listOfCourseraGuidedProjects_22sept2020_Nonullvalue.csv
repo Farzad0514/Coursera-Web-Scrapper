@@ -1,0 +1,236 @@
+,Title,Type,Rating score,Rating Count,Enrollments,Level
+0,Search Engine Optimization (SEO),SPECIALIZATION,4.6,7065,170k,Beginner
+1,Create Your First Chatbot with Rasa and Python,GUIDED PROJECT,4.5,615,12k,Beginner
+2,Improve Your English Communication Skills,SPECIALIZATION,4.7,15383,910k,Beginner
+3,Detecting COVID-19 with Chest X-Ray using PyTorch,GUIDED PROJECT,4.6,163,5.2k,Intermediate
+4,Introduction to Project Management,GUIDED PROJECT,4.6,1425,22k,Beginner
+5,Build a Full Website using WordPress,GUIDED PROJECT,4.5,1164,23k,Advanced
+6,Build Your Portfolio Website with HTML and CSS,GUIDED PROJECT,4.5,1480,22k,Beginner
+7,Introduction to Python,GUIDED PROJECT,4.5,1324,19k,Beginner
+8,Unsupervised Machine Learning for Customer Market Segmentation,GUIDED PROJECT,4.8,186,6k,Beginner
+9,Facial Expression Recognition with Keras,GUIDED PROJECT,4.5,801,17k,Intermediate
+10,Introduction to Relational Database and SQL,GUIDED PROJECT,4.5,1195,18k,Beginner
+11,Build a Data Science Web App with Streamlit and Python,GUIDED PROJECT,4.6,533,11k,Intermediate
+12,Perform Sentiment Analysis with scikit-learn,GUIDED PROJECT,4.5,368,7.5k,Intermediate
+13,Create Your First Python Program,GUIDED PROJECT,4.6,1874,22k,Beginner
+15,Python World Map Geovisualization Dashboard using Covid Data,GUIDED PROJECT,4.4,42,2.2k,Beginner
+16,Computer Vision - Object Detection with OpenCV and Python,GUIDED PROJECT,3.9,400,10k,Intermediate
+17,Git + GitHub for Open Source Collaboration,GUIDED PROJECT,4.3,213,5.1k,Beginner
+18,Pandas Python Library for Beginners in Data Science,GUIDED PROJECT,4.5,141,3.2k,Beginner
+20,"Javascript animation for websites, storytelling, data visualization and games",GUIDED PROJECT,4.2,97,5k,Intermediate
+21,Data Engineering with Google Cloud,PROFESSIONAL CERTIFICATE,4.6,12906,160k,Intermediate
+22,Spreadsheets for Beginners using Google Sheets,GUIDED PROJECT,4.7,1373,25k,Beginner
+23,Python Geospatial Data Analysis,GUIDED PROJECT,4.5,26,2.1k,Beginner
+24,Getting Started in Google Analytics,GUIDED PROJECT,4.6,381,10k,Beginner
+25,Object-Oriented Programming with Java,GUIDED PROJECT,4.5,1029,17k,Intermediate
+26,Learn Javascript with zero prior programming experience,GUIDED PROJECT,4.2,10,1.7k,Beginner
+27,Exploratory Data Analysis with Seaborn,GUIDED PROJECT,4.7,272,6.1k,Intermediate
+28,Perform Real-Time Object Detection with YOLOv3,GUIDED PROJECT,3.7,223,6k,Intermediate
+29,Investment Risk Management,GUIDED PROJECT,4.5,205,5.9k,Intermediate
+30,Image Classification with CNNs using Keras,GUIDED PROJECT,4.4,464,9.2k,Intermediate
+32,Linear Regression with NumPy and Python,GUIDED PROJECT,4.4,760,13k,Intermediate
+35,Create Your First Multithreaded Application in Java,GUIDED PROJECT,4.4,45,1.8k,Intermediate
+36,University Admission Prediction Using Multiple Linear Regression,GUIDED PROJECT,4.6,122,4.3k,Intermediate
+37,Querying Databases Using SQL SELECT statement,GUIDED PROJECT,4.5,49,1.8k,Intermediate
+38,User Experience Design – Creating User Profiles,GUIDED PROJECT,4.2,168,4.6k,Beginner
+39,Build a Machine Learning Web App with Streamlit and Python,GUIDED PROJECT,4.7,285,7.2k,Intermediate
+41,Network Data Science with NetworkX and Python,GUIDED PROJECT,4.5,54,2.3k,Intermediate
+44,Predict Future Product Prices Using Facebook Prophet,GUIDED PROJECT,4.4,327,5.6k,Intermediate
+45,Automatic Machine Learning with H2O AutoML and Python,GUIDED PROJECT,4.8,105,4.4k,Intermediate
+46,Intermediate Pandas Python Library for Data Science,GUIDED PROJECT,4.6,43,2.1k,Intermediate
+48,TensorFlow Serving with Docker for Model Deployment,GUIDED PROJECT,4.9,15,1.8k,Intermediate
+49,Building Digital Media using Graphic Design in Google Slides,GUIDED PROJECT,4.5,286,6.2k,Beginner
+50,Digital Product Management,SPECIALIZATION,4.7,4947,190k,Beginner
+51,Agile Development,SPECIALIZATION,4.7,2741,120k,Beginner
+52,Learning How to Learn: Powerful mental tools to help you master tough subjects,COURSE,4.8,66017,2.5m,Mixed
+53,Big Data,SPECIALIZATION,4.5,10796,260k,Beginner
+54,Finance for Non-Finance Professionals,COURSE,4.8,1737,87k,Beginner
+55,Software Development Lifecycle,SPECIALIZATION,4.7,2371,58k,Intermediate
+56,Become a Journalist: Report the News!,SPECIALIZATION,4.7,1017,35k,Beginner
+57,Market Research,SPECIALIZATION,4.5,721,36k,Beginner
+58,How to Start Your Own Business,SPECIALIZATION,4.3,352,50k,Beginner
+59,Driving business towards the Sustainable Development Goals,COURSE,4.8,323,8.9k,Beginner
+60,Healing with the Arts,COURSE,4.6,543,53k,Mixed
+61,Administración de Proyectos: Principios Básicos,SPECIALIZATION,4.7,3700,93k,Beginner
+62,Foundations of Mindfulness,COURSE,4.8,67,10k,Beginner
+63,User Interface Design,SPECIALIZATION,4.6,1137,54k,Intermediate
+64,Business Transformation with Google Cloud,COURSE,4.7,626,17k,Beginner
+65,Excel Skills for Business: Intermediate II,COURSE,4.8,4256,83k,Intermediate
+66,Esports,SPECIALIZATION,4.6,112,3.5k,Beginner
+67,Startup Entrepreneurship,SPECIALIZATION,4.7,1310,54k,Beginner
+68,"Big Data Essentials: HDFS, MapReduce and Spark RDD",COURSE,4,474,42k,Intermediate
+69,Writing Professional Email and Memos (Project-Centered Course),COURSE,4.3,246,67k,Mixed
+70,"The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats",COURSE,4.9,36,2.3k,Beginner
+71,Effective Communication in the Globalised Workplace,SPECIALIZATION,4.4,307,23k,Intermediate
+72,iOS Development for Creative Entrepreneurs,SPECIALIZATION,4.5,671,47k,Beginner
+73,Designing Your Personal Weight Loss Plan,COURSE,4.1,411,99k,Beginner
+74,How To Create a Website in a Weekend! (Project-Centered Course),COURSE,3.3,493,160k,Mixed
+75,Introduction to Bash Shell Scripting,GUIDED PROJECT,4.5,345,5.7k,Beginner
+76,Project: Creating Your First C++ Application,GUIDED PROJECT,4.4,556,11k,Beginner
+77,Basic Image Classification with TensorFlow,GUIDED PROJECT,4.6,543,11k,Beginner
+79,Analyzing Company’s Performance using Ratios,GUIDED PROJECT,4.4,191,4.4k,Intermediate
+80,Brand Marketing and SEO Tools using Wix,GUIDED PROJECT,4.7,82,2.5k,Beginner
+81,Pricing Strategy,COURSE,4.6,796,28k,Mixed
+82,Data Visualization with Plotly Express,GUIDED PROJECT,4.7,185,4.6k,Intermediate
+83,Website Optimization Client Report Project,COURSE,4.7,183,11k,Intermediate
+84,"Classification Trees in Python, From Start To Finish",GUIDED PROJECT,4.6,185,6.5k,Intermediate
+86,Writing and Editing: Drafting,COURSE,4.7,69,3.5k,Beginner
+87,Convolutions for Text Classification with Keras,GUIDED PROJECT,4.7,85,2.4k,Intermediate
+88,Principal Component Analysis with NumPy,GUIDED PROJECT,4.6,225,5.8k,Intermediate
+90,Develop a Company Website with Wix,GUIDED PROJECT,4.6,206,6k,Beginner
+93,Use Canva to Design Digital Course Collateral,GUIDED PROJECT,4.8,72,2k,Advanced
+94,Create a Business Marketing Brand Kit Using Canva,GUIDED PROJECT,4.7,462,8.8k,Intermediate
+99,Creating Database Tables with SQL,GUIDED PROJECT,4.6,246,4.5k,Intermediate
+103,Financing and Profiting from Innovation for Corporate Entrepreneurs,COURSE,4.6,27,2.6k,Beginner
+104,"Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails",COURSE,4.8,20,7.8k,Intermediate
+105,"Fundamentals of Financial Planning, with Goldman Sachs 10,000 Women",COURSE,4.6,95,5.8k,Mixed
+108,Discounted Cash Flow Modeling,GUIDED PROJECT,4.5,147,5.4k,Intermediate
+109,Portfolio Diversification using Correlation Matrix,GUIDED PROJECT,4.7,163,3.1k,Intermediate
+113,AutoML for Computer Vision with Microsoft Custom Vision,GUIDED PROJECT,4.7,92,2.9k,Beginner
+114,Seeking Investment Alpha,GUIDED PROJECT,4.8,36,2.4k,Intermediate
+117,Analyzing Market Attractiveness Using Creately,GUIDED PROJECT,4.8,42,1.8k,Beginner
+118,Control physics with C# in Unity,GUIDED PROJECT,4.8,54,2k,Beginner
+122,Support Vector Machine Classification in Python,GUIDED PROJECT,4.4,119,4.4k,Intermediate
+123,Build a Deep Learning Based Image Classifier with R,GUIDED PROJECT,4.6,153,5.3k,Intermediate
+124,Manipulate Object Properties with C# in Unity,GUIDED PROJECT,4.9,32,2.2k,Beginner
+135,Business Strategy in Practice (Project-centered Course),COURSE,4.6,132,6k,Mixed
+136,Applied Data Science,SPECIALIZATION,4.6,25484,290k,Beginner
+138,Reinforcement Learning in Finance,COURSE,3.6,96,13k,Advanced
+139,Guided Tour of Machine Learning in Finance,COURSE,3.8,540,22k,Intermediate
+140,Introduction to Probability and Data with R,COURSE,4.7,4369,190k,Beginner
+141,Hadoop Platform and Application Framework,COURSE,3.9,3091,130k,Mixed
+142,Inferential Statistics,COURSE,4.8,1890,76k,Beginner
+143,Meditation: A way to achieve your goals in your life,COURSE,4.6,570,49k,Beginner
+144,Homeland Security & Cybersecurity Connection - It's Not About the Terrorists,COURSE,4.7,257,5.3k,Beginner
+145,RPA Lifecycle: Development and Testing,COURSE,4.7,67,2.3k,Beginner
+146,Мой друг - робот: введение в социальную робототехнику / My Friend is a Robot: Introduction to Social Robotics,COURSE,4.8,52,2.3k,Beginner
+147,RPA Lifecycle: Deployment and Maintenance,COURSE,4.7,44,1.6k,Beginner
+149,Training and Learning Programs for Volunteer Community Health Workers,COURSE,4.7,64,3.4k,Beginner
+151,Machine Learning with H2O Flow,GUIDED PROJECT,4.7,79,2.5k,Intermediate
+153,3D Printing Capstone,COURSE,4.7,17,1.8k,Mixed
+154,IBM AI Enterprise Workflow,SPECIALIZATION,4.3,140,5.3k,Advanced
+155,Problem Solving with Excel,COURSE,4.7,4476,100k,Beginner
+156,Getting started with TensorFlow 2,COURSE,4.9,95,7.4k,Intermediate
+157,Customising your models with TensorFlow 2,COURSE,4.9,17,2.8k,Intermediate
+160,Game Design Document: Define the Art & Concepts,COURSE,4.6,123,2.2k,Intermediate
+161,Initiating and Planning Projects,COURSE,4.7,15011,260k,Mixed
+162,Introdução aos Princípios e Práticas da Gestão De Projetos,SPECIALIZATION,4.8,632,6.2k,Beginner
+163,Iniciación y Planificación de Proyectos,COURSE,4.6,2904,73k,Mixed
+164,Programming in C#: A comprehensive approach to C# Fundamentals,GUIDED PROJECT,4.6,92,2.6k,Beginner
+166,Python Tricks and Hacks for Productivity,GUIDED PROJECT,4.1,54,2.1k,Intermediate
+167,Create Your First Application with Java Using Networking,GUIDED PROJECT,4.5,24,2.1k,Intermediate
+170,Administración de Proyectos Project,COURSE,4.7,185,4.3k,Mixed
+171,Gestión de proyectos: las bases del éxito,COURSE,4.7,706,19k,Mixed
+173,Orçamento e Cronograma de Projetos,COURSE,4.8,215,1.8k,Beginner
+176,Measuring the Success of a Patient Safety or Quality Improvement Project (Patient Safety VI),COURSE,4.6,47,1.6k,Mixed
+177,Brand New Brand,COURSE,4.9,697,13k,Intermediate
+180,Creating Dashboards and Storytelling with Tableau,COURSE,4.6,727,26k,Beginner
+182,Fundamentals of Project Planning and Management,COURSE,4.7,4147,160k,Beginner
+183,Script Writing: Write a Pilot Episode for a TV or Web Series (Project-Centered Course),COURSE,4.5,563,67k,Mixed
+184,Project Management Project,COURSE,4.8,2063,27k,Mixed
+185,The entrepreneur's guide for beginners,COURSE,4.6,65,3.5k,Beginner
+186,"Negotiation, Mediation, and Conflict Resolution - Capstone Project",COURSE,4.9,73,4.9k,Intermediate
+187,Big Data - Capstone Project,COURSE,4.4,349,8k,Mixed
+191,Business English: Capstone Project,COURSE,4.7,66,3.3k,Intermediate
+194,Cloud Architecture with Google Cloud,PROFESSIONAL CERTIFICATE,4.7,40420,410k,Intermediate
+195,Software Product Management,SPECIALIZATION,4.7,8380,140k,Beginner
+196,Agile with Atlassian Jira,COURSE,4.7,2519,58k,Beginner
+197,Agile Meets Design Thinking,COURSE,4.7,2185,96k,Beginner
+199,Introduction to Software Product Management,COURSE,4.6,5772,78k,Mixed
+200,"Innovation Through Design: Think, Make, Break, Repeat",COURSE,4.7,280,16k,Beginner
+201,Software Processes and Agile Practices,COURSE,4.7,4172,73k,Mixed
+202,Managing an Agile Team,COURSE,4.7,821,36k,Mixed
+203,Agile и Scrum в работе над проектами и продуктами,COURSE,4.8,191,15k,Beginner
+204,Aspectos básicos de la planificación y la gestión de proyectos,COURSE,4.8,286,19k,Beginner
+205,Agile Planning for Software Products,COURSE,4.7,1664,43k,Mixed
+206,Software Development Processes and Methodologies,COURSE,4.6,781,27k,Beginner
+207,Agile Software Development,COURSE,4.7,1624,32k,Intermediate
+208,Requirements Writing,COURSE,4.6,131,6k,Mixed
+209,Гибкие методологии разработки высокотехнологичных продуктов,COURSE,4.7,85,3.4k,Intermediate
+210,Lean Software Development,COURSE,4.4,164,8.9k,Beginner
+211,Princípios de Desenvolvimento Ágil de Software,COURSE,4.6,164,14k,Intermediate
+213,Fundamentals of Visualization with Tableau,COURSE,4.5,4308,95k,Beginner
+214,Entrepreneurship Strategy: From Ideation to Exit,COURSE,4.8,701,28k,Beginner
+215,Introduction to G Suite,COURSE,4.7,1203,17k,Beginner
+216,Exploring Renewable Energy Schemes,COURSE,4.8,216,7.5k,Beginner
+217,Write Your First Novel,COURSE,4.1,37,30k,Beginner
+218,Les Fondamentaux de la Négociation,COURSE,4.8,194,12k,Beginner
+219,Social Entrepreneurship,SPECIALIZATION,4.6,228,19k,Beginner
+220,Hypothesis-Driven Development,COURSE,4.6,548,27k,Mixed
+221,Brand and Product Management,COURSE,4.7,1772,60k,Mixed
+222,Client Needs and Software Requirements,COURSE,4.8,2578,46k,Mixed
+223,Entrepreneurship 3: Growth Strategies,COURSE,4.8,1210,33k,Beginner
+224,Agile Analytics,COURSE,4.7,118,6.1k,Beginner
+225,BIM Application for Engineers,COURSE,4.6,243,15k,Intermediate
+226,Budgeting essentials and development,COURSE,4.6,119,7.3k,Intermediate
+227,Decision-Making and Scenarios,COURSE,4.6,1540,34k,Mixed
+228,3D Printing Software,COURSE,4.6,396,30k,Beginner
+229,Humanitarian communication : Addressing key challenges,COURSE,4.6,159,8.6k,Intermediate
+230,Building a Data Science Team,COURSE,4.5,2953,35k,Mixed
+231,Security Operations and Administration,COURSE,4.8,100,1.5k,Beginner
+232,Introduction to Public Health Engineering in Humanitarian Contexts,COURSE,4.8,218,6k,Beginner
+233,Big data and Language 1,COURSE,4.5,52,2.2k,Beginner
+234,Qualitative Research,COURSE,4.6,234,12k,Intermediate
+235,Criação de Startups: Como desenvolver negócios inovadores,COURSE,4.8,495,32k,Beginner
+236,Increase SEO Traffic with WordPress,GUIDED PROJECT,4.4,169,4.8k,Advanced
+237,Building High-Performing Teams,COURSE,4.8,206,11k,Beginner
+238,Software Product Management Capstone,COURSE,4.8,733,11k,Mixed
+239,Reviews & Metrics for Software Improvements,COURSE,4.7,1342,23k,Mixed
+241,Ethical Social Media,COURSE,4.4,63,6.5k,Mixed
+242,Interview Research and Preparation,COURSE,4.6,188,28k,Intermediate
+243,FPGA computing systems: Background knowledge and introductory materials,COURSE,4.6,150,8.4k,Beginner
+245,Power Onboarding,COURSE,4.2,27,3.7k,Beginner
+246,Use Canva to Create Social Media Marketing Designs,GUIDED PROJECT,4.5,1025,16k,Beginner
+247,Cybersecurity Policy for Water and Electricity Infrastructures,COURSE,4.6,140,2.7k,Beginner
+249,Cybersecurity Policy for Aviation and Internet Infrastructures,COURSE,4.7,170,3.3k,Beginner
+250,New Venture Finance: Startup Funding for Entrepreneurs,COURSE,4.6,293,24k,Mixed
+251,商务英语课程 Business English,SPECIALIZATION,4.7,31,4.2k,Intermediate
+252,"Learn to Teach Java:  Sequences, Primitive Types and Using Objects",COURSE,4.8,19,2.4k,Beginner
+253,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),COURSE,4.5,58,1.7k,Mixed
+254,Making Your First Virtual Reality Game,COURSE,4.3,47,14k,Intermediate
+257,"Planning: Principled, Proposing, Proofing, and Practicing to a Success Plan",COURSE,3.9,23,8.8k,Mixed
+259,Nursing Informatics Training and Education,COURSE,4.7,41,1.9k,Intermediate
+260,Writing in English at University,COURSE,4.7,341,95k,Beginner
+261,"Grow Your Business with Goldman Sachs 10,000 Women",COURSE,4.7,226,13k,Mixed
+262,Lesson | Business English Skills: Introducing Yourself in Business Settings,COURSE,4.2,16,6.4k,Intermediate
+263,Giving 2.0: The MOOC,COURSE,4.6,145,27k,Mixed
+264,Internet of Things V2: DragonBoard™ bring up and community ecosystem,COURSE,3.2,20,4.8k,Mixed
+266,Responsive Website Development and Design Capstone,COURSE,4.7,49,3.8k,Mixed
+267,Tinkering Fundamentals: Circuits,COURSE,4.7,41,6.5k,Beginner
+275,Machine Learning for Everyone with Eric Siegel,SPECIALIZATION,4.8,46,2.5k,Beginner
+276,Semantic Segmentation with Amazon Sagemaker,GUIDED PROJECT,4.8,33,2k,Advanced
+282,Responsive Website Development and Design,SPECIALIZATION,4.5,6204,210k,Beginner
+283,Write A Feature Length Screenplay For Film Or Television,COURSE,4.7,45,20k,Beginner
+284,Econometrics: Methods and Applications,COURSE,4.6,978,130k,Mixed
+285,Object-Oriented Design,COURSE,4.7,1215,45k,Intermediate
+286,Confronting Gender Based Violence: Global Lessons for Healthcare Workers,COURSE,4.8,154,16k,Beginner
+287,AWS Computer Vision: Getting Started with GluonCV,COURSE,4.6,318,31k,Beginner
+288,Big Data Modeling and Management Systems,COURSE,4.4,2671,65k,Mixed
+291,Violence Against Healthcare,COURSE,4.6,45,2.3k,Beginner
+292,iOS App Development Basics,COURSE,4.2,532,34k,Mixed
+293,Burgos: Deciphering Secrets of Medieval Spain,COURSE,4.2,9,1.5k,Advanced
+294,PrEParing: PrEP for Providers and Patients,COURSE,4.7,94,3.1k,Beginner
+296,Building the Business Model for Corporate Entrepreneurs,COURSE,4.7,50,5.5k,Beginner
+297,Transmedia Writing,COURSE,4.4,34,10k,Beginner
+298,Innovation Management,COURSE,4.7,1117,50k,Beginner
+299,Building Conversational Experiences with Dialogflow,COURSE,4.5,786,32k,Beginner
+300,Using clinical health data for better healthcare,COURSE,4.6,49,3.7k,Beginner
+301,COVID-19 Training for Healthcare Workers,COURSE,4.9,1000,24k,Mixed
+302,"Revolutionary Ideas: Utility, Justice, Equality, Freedom",COURSE,4.6,74,10k,Beginner
+303,"Revolutionary Ideas: Borders, Elections, Constitutions, Prisons",COURSE,5,16,4.4k,Beginner
+304,Mathematics for Machine Learning: Linear Algebra,COURSE,4.7,8098,190k,Beginner
+305,Chimpanzee Behavior and Conservation,COURSE,4.9,153,5.2k,Beginner
+306,Search Advertising,COURSE,4.3,47,4.2k,Beginner
+307,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,COURSE,4.8,909,40k,Mixed
+308,Marketing con Redes Sociales,SPECIALIZATION,4.4,2467,80k,Intermediate
+309,Marketing Digital,SPECIALIZATION,4.7,1725,74k,Beginner
+310,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,COURSE,4.6,495,27k,Intermediate
+311,Children's Human Rights - An Interdisciplinary Introduction,COURSE,4.7,1326,46k,Beginner
+312,Implementación del Marketing Mix,SPECIALIZATION,4.8,1038,33k,Beginner
+313,Global Financial Markets and Instruments,COURSE,4.6,1307,51k,Mixed
+314,AWS Fundamentals: Addressing Security Risk,COURSE,4.4,1867,31k,Beginner
+315,Strategy Implementation,COURSE,4.6,769,19k,Mixed
+316,Palo Alto Networks Academy Cybersecurity Foundation,COURSE,4.7,447,15k,Beginner
+317,Enterprise System Management and Security,COURSE,4.6,447,17k,Beginner
+318,"Comunicaciones integradas de marketing: Publicidad, Relaciones Públicas, Marketing Digital y más",COURSE,4.8,369,14k,Mixed
+319,Privacy in the Western World,COURSE,4.5,114,4k,Beginner
